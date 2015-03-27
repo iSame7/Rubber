@@ -4,7 +4,7 @@ Rubber
 a beautiful rubber-banding(Transition effect) of list items, like Paper iOS Application.
 
 
-![alt tag](http://dy7kfdu8nfzkx.cloudfront.net/Paper/19.gif)
+![alt tag](http://23h1rq2wr18220xqby25x0kq.wpengine.netdna-cdn.com/wp-content/uploads/2014/02/paper-1-MP4.mp4)
 
 Requirements
 ----------
