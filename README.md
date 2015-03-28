@@ -4,7 +4,7 @@ Rubber
 a beautiful rubber-banding(Transition effect) of list items, like Paper iOS Application.
 
 
-![alt tag]("Rubber.gif")
+<img src="Rubber.gif" alt="Screenshot" width="320px"/>
 
 Requirements
 ----------
