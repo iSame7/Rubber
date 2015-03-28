@@ -13,7 +13,7 @@ Requirements
 
 
 ## License
-Panorama is released under the MIT license. See
+Rubber is released under the MIT license. See
 [LICENSE](https://github.com/iSame7/Rubber/blob/master/LICENSE).
 
 Contact
